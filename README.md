@@ -6,4 +6,4 @@ Repositório dedicado a projetos de analise de dados, desde a extração e limpe
   - Visualização em Python: Matplotlib, Seaborn ou Plotly 
   - Business Intelligence (BI): Power BI, Tableau e QlikView
 #### Projetos
- - (Em breve: índice com os links para cada projeto)
+ - https://github.com/flaviovg031-dotcom/analise-de-dados/tree/main/Analise_de_dados_ClientesBanco
