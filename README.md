@@ -1,5 +1,5 @@
 ## Análise de Dados
-Repositório dedicado a projetos de analise de dados, desde a extração, limpeza e carga (ETL) até a análise exploratória (EDA), modelagem e geração de insigths estratégicos. 
+Repositório dedicado a projetos de analise de dados, desde a extração dos dados, limpeza e carga (ETL) até a análise exploratória (EDA), modelagem e geração de insigths estratégicos. 
  ### Tecnologias e ferramentas
   - Linguagens e Banco de dados:Python, SQL (SQLite)
   - Manipulação e análise: Pandas, NumPy
